@@ -1,0 +1,11 @@
+**/build/
+**/install/
+**/CMakeFiles/
+**/CMakeFiles*/
+**/.vscode/
+LTE_5G_FUZZER/asan/
+LTE_5G_FUZZER/log/
+LTE_5G_FUZZER/coverage_log/
+LTE_5G_FUZZER/seeds/
+third-party/open5gs/configs_bak/
+Dockerfile*
