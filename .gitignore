@@ -1,0 +1,7 @@
+# Ignore all the build and install directories
+**/build/
+**/install/
+**/CMakeFiles/
+**/CMakeFiles*/
+**/.vscode/
+third-party/open5gs/configs_bak/
